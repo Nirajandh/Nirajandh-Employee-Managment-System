@@ -39,7 +39,7 @@ The **Employee Management System** is a comprehensive web application designed t
 ### Setup
 
 1. **Backend Setup:**
-   - Clone the repository.(git clone <https://github.com/Nirajandh/Nirajandh-Employee-Managment-System.git>)
+   - Clone the repository. (git clone <https://github.com/Nirajandh/Nirajandh-Employee-Managment-System.git>)
    - Open the backend project in your preferred IDE.
    - Configure the database in `application.properties`.
    - Run the Spring Boot application.
@@ -52,9 +52,15 @@ The **Employee Management System** is a comprehensive web application designed t
 3. **Accessing the Application:**
    - Open your browser and navigate to `http://localhost:4200`.
 
-
-   ![first page](./images/image.png)
+### Add Employee Details:
    ![first page](./images/image1.png)
+   ![first page](./images/image.png)
+  
+### List of Employees:
+ ![first page](./images/image3.png)
+### Update Details:**
+
+### View Details:**
    ![first page](./images/image2.png)
-   ![first page](./images/image3.png)
-   ![first page](./images/image4.png)
+  
+   
