@@ -53,4 +53,4 @@ The **Employee Management System** is a comprehensive web application designed t
    - Open your browser and navigate to `http://localhost:4200`.
 
 
-   ![first page](image.png)
+   ![first page](./images/image.png)
