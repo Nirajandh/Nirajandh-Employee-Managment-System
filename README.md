@@ -58,9 +58,9 @@ The **Employee Management System** is a comprehensive web application designed t
   
 ### List of Employees:
  ![first page](./images/image3.png)
-### Update Details:**
-
-### View Details:**
+### Update Details:
+![first page](./images/image6.png)
+### View Details:
    ![first page](./images/image2.png)
   
    
