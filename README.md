@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Employee Management System is a comprehensive web application designed to streamline and enhance the management of employee-related tasks within an organization. This system utilizes a modern and efficient technology stack, including Spring Boot for the backend, Angular for the frontend, and MySQL for the database.
+The **Employee Management System** is a comprehensive web application designed to streamline and enhance the management of employee-related tasks within an organization. This system utilizes a modern and efficient technology stack, including Spring Boot for the backend, Angular for the frontend, and MySQL for the database.
 
 ## Features
 
@@ -15,36 +15,36 @@ The Employee Management System is a comprehensive web application designed to st
 
 ### Backend
 
-- Spring Boot 2.0.5.RELEASE
-- Jdk "20.0.1"
-- JUnit5
-- Spring Framework 5.0.8 RELEASE
-- Hibernate 5.2.17.Final
-- Spring Data JPA 2+
+- **Spring Boot 2.0.5.RELEASE**
+- **JDK 1.8**
+- **JUnit5**
+- **Spring Framework 5.0.8 RELEASE**
+- **Hibernate 5.2.17.Final**
+- **Spring Data JPA 2+**
 
 ### Frontend
 
-- Angular 17.1.3
-- Bootstrap 5
-- npm 10.4.0
-- JQuery
+- **Angular 17.1.3**
+- **Bootstrap 5**
+- **npm 10.4.0**
+- **JQuery**
 
 ### Tools
 
-- Maven 3.2+
-- IDE - Eclipse or Spring Tool Suite (STS) for Spring Boot API development
-- Visual Studio 2017 for Angular App development
-- Angular CLI
-- GitHub (for version control)
+- **Maven 3.2+**
+- **IDE - Eclipse or Spring Tool Suite (STS) for Spring Boot API development**
+- **Visual Studio 2017 for Angular App development**
+- **Angular CLI**
+- **GitHub (for version control)**
 
 ## Getting Started
 
 ### Prerequisites
 
-- JDK 1.8 or later
-- Maven 3.2+
-- Node.js and npm
-- Angular CLI
+- **JDK 1.8 or later**
+- **Maven 3.2+**
+- **Node.js and npm**
+- **Angular CLI**
 
 ### Setup
 
@@ -61,8 +61,3 @@ The Employee Management System is a comprehensive web application designed to st
 
 3. **Accessing the Application:**
    - Open your browser and navigate to `http://localhost:4200`.
-
-
-
- 
-
