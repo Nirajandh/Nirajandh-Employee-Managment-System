@@ -2,8 +2,17 @@
 /* You can add global styles to this file, and also import other style files */
 /* @import "~bootstrap/dist/css/bootstrap.min.css"; */
 
- 
 
+  
+body {
+    /* background-image: url('https://images.thequint.com/thequint%2F2023-02%2F3d846992-e55a-46f3-8e0e-a36db4e7c2c4%2FHappy_Valentine_s_Day_2023.jpg?auto=format%2Ccompress&fmt=webp&width=720'); */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* filter: blur(5px); Adjust the blur strength as needed */
+    /* -webkit-backdrop-filter: blur(5px); For Safari */
+    /* backdrop-filter: blur(5px); */
+  }
 
 .footer {
     position: absolute;

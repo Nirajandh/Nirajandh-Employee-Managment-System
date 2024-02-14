@@ -1,0 +1,24 @@
+/* Optional: Add styling to the View Employee Details section */
+h3 {
+    color: #007bff; /* Primary blue text color */
+}
+
+/* Style individual detail items */
+label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    display: block;
+}
+
+div {
+    margin-bottom: 15px;
+}
+
+/* Add some padding and border to the container for a clean look */
+div.container {
+    padding: 15px;
+    border: 1px solid #ddd; /* Light border color */
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff; /* White background color */
+}
